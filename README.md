@@ -19,6 +19,8 @@ if(s.equals(a)){
 }
 else{
  System.out.println("no. is not palindrom");
+ System.out.println("no. is not palindrom");
+ 
 }
 }
 }
